@@ -207,7 +207,7 @@
 
   .subTagBitcoinPool {
     position: fixed;
-    margin-top: 50vh;
+    margin-top: 53vh;
     margin-left: 31vw;
     color: white;
     font-size: 20px;
@@ -216,7 +216,7 @@
   .poolBalance {
     position: fixed;
     color: white;
-    margin-top: 53vh;
+    margin-top: 56vh;
     margin-left: 15vw;
     font-size: 39px;
   }
